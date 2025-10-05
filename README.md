@@ -1,5 +1,5 @@
 # Exam Rank 03
-<img width="1557" height="301" alt="Exam_Rank_02" src="https://github.com/user-attachments/assets/7dd48713-d546-496c-91e6-62129d377142" />
+<img width="1556" height="317" alt="image" src="https://github.com/user-attachments/assets/880e7e74-3d27-4cae-871f-583737632520" />
 
 *2 exercises exam*
 
